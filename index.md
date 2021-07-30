@@ -3,7 +3,7 @@ During these three weeks, I have been working on a midi controller similar to a 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Richard Y | Stuyvesant Highschool | Electrical Engineering | Incoming Sophomore
+| Richard Y | Stuyvesant Highschool | Computer Engineering | Incoming Sophomore
 
 ![Headstone Image](https://res.cloudinary.com/dbshcjrt3/image/upload/w_1480,h_986,c_fill,g_auto,q_auto/wikifactory-prod-uploads/3143/3dprintinghero-angle-view-c4120.jpg)
 
