@@ -19,7 +19,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
   
 # First Milestone
 My first milestone was setting up the circuit for my potentiometer. I connected 5 wires from the breadboard to the arduino, and set up the led using a resistor and of course inserting the potentiometer. Verifying and uploading the code in my Arduino IDE, I was able to get my led to light up. As I turn the knob to the right, the led will glow brighter and as I turn the knob to the left the led glows darker until no more light is emitted. The hardest part when attempting to set up the potentiometer was getting the wires to its corresponding pin. I had to differentiate between the analog and digital side on my arduino, and be able to identify the ground, input, and power pins on the potentiometer.
-[![First Milestone](<img src="images/carbon.png" width=500 align=center style="float:right; padding-right:10px">)]
+(<img src="images/carbon.png" width=500 align=center style="float:right; padding-right:10px">)
 (https://www.youtube.com/watch?v=AKmGI48SPZU&feature=emb_logo "First Milestone")
 
 <img src="images/potentiometer.jpg" width=500 align=center style="float:right; padding-right:10px">
