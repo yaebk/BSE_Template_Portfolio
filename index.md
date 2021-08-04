@@ -22,4 +22,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was setting up the potentiometer, getting the LED to blink in shorter or longer intervals based on where the knob on the potentiometer was turned. 
 
-![First Milestone]<img src="images/potentiometer.jpg" width=500 align=center style="float:right; padding-right:10px">{:target="_blank" rel="noopener"}
+[![First Milestone]<img src="images/potentiometer.jpg" width=500 align=center style="float:right; padding-right:10px">{:target="_blank" rel="noopener"}
