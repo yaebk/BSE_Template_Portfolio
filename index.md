@@ -13,7 +13,7 @@
 
 [Push Buttons ](https://www.amazon.com/White-Sanwa-Push-Buttons-OBSF-30-W/dp/B003KSB2YC/ref=sr_1_4?dchild=1&keywords=purple+arcade+buttons&qid=1628015080&s=toys-and-games&sr=1-4)
 
-[Potentiometer With a Knob](https://www.amazon.com/DaFuRui-Terminals-Knurled-Linear-Potentiometer/dp/B07QT1BTLJ/ref=sr_1_1_sspa?dchild=1&keywords=potentiometer+10k&qid=1628101394&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFRWEFLMFE1WVVFQjEmZW5jcnlwdGVkSWQ9QTA2MDc4MTFSRzFBMlMxVjhZVjgmZW5jcnlwdGVkQWRJZD1BMDI3MjE4NDIzVlI0Nkw1RVBMSjAmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+[Potentiometer with a Knob](https://www.amazon.com/DaFuRui-Terminals-Knurled-Linear-Potentiometer/dp/B07QT1BTLJ/ref=sr_1_1_sspa?dchild=1&keywords=potentiometer+10k&qid=1628101394&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFRWEFLMFE1WVVFQjEmZW5jcnlwdGVkSWQ9QTA2MDc4MTFSRzFBMlMxVjhZVjgmZW5jcnlwdGVkQWRJZD1BMDI3MjE4NDIzVlI0Nkw1RVBMSjAmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
 
 [Potentiometer Sliders](https://www.amazon.com/DollaTek-Electronic-Building-Potentiometer-Resistance/dp/B07HBWQGYP/ref=sr_1_7?crid=6XE5FMDJDERO&dchild=1&keywords=sliding+potentiometer+10k&qid=1628101760&sprefix=sliding+potentiometer%2Caps%2C232&sr=8-7)
 
@@ -23,7 +23,7 @@
 Coming soon.
 
 # Second Milestone
-Design Portion coming soon.
+Design portion coming soon.
   
 # First Milestone
 My first milestone was setting up the circuit for my potentiometer. I connected five wires from the breadboard to the Arduino, and set up the LED using a resistor and of course inserting the potentiometer. Verifying and uploading the code in my Arduino IDE, I was able to get my LED to light up. As I turn the knob to the right, the LED will glow brighter and as I turn the knob to the left the LED fades darker until no more light is emitted. The hardest part when attempting to set up the potentiometer was getting the wires to its corresponding pin. I had to differentiate between the analog and digital side on my Arduino, and be able to identify the ground, input, and power pins on the potentiometer.
