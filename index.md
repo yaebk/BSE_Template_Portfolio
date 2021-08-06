@@ -7,7 +7,7 @@
 
 ![Headstone Image](https://res.cloudinary.com/dbshcjrt3/image/upload/w_1480,h_986,c_fill,g_auto,q_auto/wikifactory-prod-uploads/3143/3dprintinghero-angle-view-c4120.jpg)
 
-#Links to project components used:
+# Links to project components used:
 
 Controller case 
 https://www.amazon.com/Otdorpatio-Waterproof-Electrical-11-42x8-27x3-94-290x210x100/dp/B08N1JCYLH/ref=sr_1_10?dchild=1&keywords=plastic+enclosure+for+controller&qid=1628100246&sr=8-10
