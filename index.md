@@ -9,15 +9,15 @@
 
 # Project components used:
 
-[Controller case ](https://www.amazon.com/Otdorpatio-Waterproof-Electrical-11-42x8-27x3-94-290x210x100/dp/B08N1JCYLH/ref=sr_1_10?dchild=1&keywords=plastic+enclosure+for+controller&qid=1628100246&sr=8-10)
+[Controller Case ](https://www.amazon.com/Otdorpatio-Waterproof-Electrical-11-42x8-27x3-94-290x210x100/dp/B08N1JCYLH/ref=sr_1_10?dchild=1&keywords=plastic+enclosure+for+controller&qid=1628100246&sr=8-10)
 
-[Push buttons ](https://www.amazon.com/White-Sanwa-Push-Buttons-OBSF-30-W/dp/B003KSB2YC/ref=sr_1_4?dchild=1&keywords=purple+arcade+buttons&qid=1628015080&s=toys-and-games&sr=1-4)
+[Push Buttons ](https://www.amazon.com/White-Sanwa-Push-Buttons-OBSF-30-W/dp/B003KSB2YC/ref=sr_1_4?dchild=1&keywords=purple+arcade+buttons&qid=1628015080&s=toys-and-games&sr=1-4)
 
-[Potentiometer with a knob](https://www.amazon.com/DaFuRui-Terminals-Knurled-Linear-Potentiometer/dp/B07QT1BTLJ/ref=sr_1_1_sspa?dchild=1&keywords=potentiometer+10k&qid=1628101394&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFRWEFLMFE1WVVFQjEmZW5jcnlwdGVkSWQ9QTA2MDc4MTFSRzFBMlMxVjhZVjgmZW5jcnlwdGVkQWRJZD1BMDI3MjE4NDIzVlI0Nkw1RVBMSjAmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+[Potentiometer With a Knob](https://www.amazon.com/DaFuRui-Terminals-Knurled-Linear-Potentiometer/dp/B07QT1BTLJ/ref=sr_1_1_sspa?dchild=1&keywords=potentiometer+10k&qid=1628101394&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFRWEFLMFE1WVVFQjEmZW5jcnlwdGVkSWQ9QTA2MDc4MTFSRzFBMlMxVjhZVjgmZW5jcnlwdGVkQWRJZD1BMDI3MjE4NDIzVlI0Nkw1RVBMSjAmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
 
-[Potentiometer sliders](https://www.amazon.com/DollaTek-Electronic-Building-Potentiometer-Resistance/dp/B07HBWQGYP/ref=sr_1_7?crid=6XE5FMDJDERO&dchild=1&keywords=sliding+potentiometer+10k&qid=1628101760&sprefix=sliding+potentiometer%2Caps%2C232&sr=8-7)
+[Potentiometer Sliders](https://www.amazon.com/DollaTek-Electronic-Building-Potentiometer-Resistance/dp/B07HBWQGYP/ref=sr_1_7?crid=6XE5FMDJDERO&dchild=1&keywords=sliding+potentiometer+10k&qid=1628101760&sprefix=sliding+potentiometer%2Caps%2C232&sr=8-7)
 
-[Rubber feet](https://www.amazon.com/UOTOO-Laptop-Diameter-Replacement-MacBook/dp/B087774VG5/ref=sr_1_25?dchild=1&keywords=rubber+feet&qid=1628116836&sr=8-25)
+[Rubber Feet](https://www.amazon.com/UOTOO-Laptop-Diameter-Replacement-MacBook/dp/B087774VG5/ref=sr_1_25?dchild=1&keywords=rubber+feet&qid=1628116836&sr=8-25)
 
 # Final Milestone
 Coming soon.
