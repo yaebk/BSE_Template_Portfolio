@@ -1,5 +1,5 @@
-﻿# Midi Controller
- A midi controller is a creative tool that sends and recieves MIDI messages from your device. The knobs, buttons, and sliders can be programmed to do virtually anything desired, making the midi controller unique to the user. Thus, allowing users to expand their imagination and be creative when combining sounds on the controller. 
+﻿# Arcade Button MIDI Controller
+ A MIDI controller is a creative tool that sends and recieves MIDI messages from your device. The knobs, buttons, and sliders can be programmed to do virtually anything desired, making the midi controller unique to the user. Thus, allowing users to expand their imagination and be creative when combining sounds on the controller. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -7,7 +7,7 @@
 
 ![Headstone Image](https://res.cloudinary.com/dbshcjrt3/image/upload/w_1480,h_986,c_fill,g_auto,q_auto/wikifactory-prod-uploads/3143/3dprintinghero-angle-view-c4120.jpg)
 
-# Links to project components used:
+# Project components used:
 
 Controller case 
 https://www.amazon.com/Otdorpatio-Waterproof-Electrical-11-42x8-27x3-94-290x210x100/dp/B08N1JCYLH/ref=sr_1_10?dchild=1&keywords=plastic+enclosure+for+controller&qid=1628100246&sr=8-10
