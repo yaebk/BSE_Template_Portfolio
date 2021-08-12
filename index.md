@@ -23,7 +23,9 @@
 Coming soon.
 
 # Second Milestone
-Design portion coming soon.
+Showcasing my design. Where my buttons, knobs, and sliding potentiometers will be placed on my plastic enclosure for accuracy and symmetry. I used a ruler to measure the distance between the buttons and to make sure every other component was evenly spaced. I also used a cutout circle for my buttons to make sure the circles were consistent in size when the time comes to drill the holes for my plastic enclosure. I measured out how far in my components should be, which ended up being a 2cm width. My buttons are half a centimeter apart as well. 
+
+[![Midi Controller Design](https://res.cloudinary.com/marcomontalbano/image/upload/v1628792122/video_to_markdown/images/youtube--fT6MydfNgPU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/fT6MydfNgPU "Midi Controller Design")
   
 # First Milestone
 My first milestone was setting up the circuit for my potentiometer. I connected five wires from the breadboard to the Arduino, and set up the LED using a resistor and of course inserting the potentiometer. Verifying and uploading the code in my Arduino IDE, I was able to get my LED to light up. As I turn the knob to the right, the LED will glow brighter and as I turn the knob to the left the LED fades darker until no more light is emitted. The hardest part when attempting to set up the potentiometer was getting the wires to its corresponding pin. I had to differentiate between the analog and digital side on my Arduino, and be able to identify the ground, input, and power pins on the potentiometer.
