@@ -19,6 +19,11 @@
 
 [Rubber Feet](https://www.amazon.com/UOTOO-Laptop-Diameter-Replacement-MacBook/dp/B087774VG5/ref=sr_1_25?dchild=1&keywords=rubber+feet&qid=1628116836&sr=8-25)
 
+# Demo Night 
+A video about me presenting a glimpse into the Midi Controller, demonstrating how the potentiometers will work and code to go along with it.
+
+[![Demo Night](https://res.cloudinary.com/marcomontalbano/image/upload/v1628873027/video_to_markdown/images/youtube--Q0bh9DESD3I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Q0bh9DESD3I "Demo Night")
+
 # Final Milestone
 Coming soon.
 
