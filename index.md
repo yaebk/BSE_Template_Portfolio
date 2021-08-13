@@ -25,7 +25,7 @@ Coming soon.
 # Second Milestone
 In my design, I show where my buttons, knobs, and sliding potentiometers will be placed on my plastic enclosure. I used a ruler to measure the distance between the buttons and to make sure every other component was evenly spaced. I also used a cutout circle for my buttons to make sure the circles were consistent in size. I measured out how far in my components should be, which ended up being a 2cm width. My buttons are also a half a centimeter apart. I will use this design to drill holes into my plastic enclosure for my components. 
 
-<img src="images/design.png" width=400 align=center style="float:right; padding-right:10px">
+<img src="images/design.jpg" width=400 align=center style="float:right; padding-right:10px">
 
 [![Midi Controller Design](https://res.cloudinary.com/marcomontalbano/image/upload/v1628792122/video_to_markdown/images/youtube--fT6MydfNgPU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/fT6MydfNgPU "Midi Controller Design")
   
